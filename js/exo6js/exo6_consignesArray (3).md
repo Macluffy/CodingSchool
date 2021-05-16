@@ -1,5 +1,5 @@
 - # Exercice 6
-    - # 1°
+    - # 1°g
         - ## Supprimer le dernier élément de l'array
         - ## let monTab = ['crabe', 'crevette', 'homard', 'cloporte']
 
